@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("Stack isEmpty? " + stack.isEmpty());
 
-        System.out.println("Pushing 10, 20, 30...");
+        System.out.println("Pushing 10, 20, 30...");//pushing starts
         stack.push(10);
         stack.push(20);
         stack.push(30);
