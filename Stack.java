@@ -58,7 +58,7 @@ public class Stack<T> {
 
     /**
      * Tests if this stack is empty.
-     * @return true if and only if this stack contains no items; false otherwise.
+     * @return true if and only if this stack contains no items; false otherwise (not empty) .
      */
     public boolean isEmpty() {
         return top == null;
