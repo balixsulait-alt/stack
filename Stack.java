@@ -1,5 +1,5 @@
 import java.util.EmptyStackException;
-//it then starts
+//it then starts the stack 
 public class Stack<T> {
     private Node<T> top;
     private int size;
