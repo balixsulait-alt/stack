@@ -1,4 +1,4 @@
-//java main code
+//java_main_code
 public class Main {
     public static void main(String[] args) {
         System.out.println("Testing the Stack API:");
