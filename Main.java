@@ -5,7 +5,8 @@ public class Main {
         Stack<Integer> stack = new Stack<>();
 
         System.out.println("Stack isEmpty? " + stack.isEmpty());
-
+//pushing
+    
         System.out.println("Pushing 10, 20, 30...");
         stack.push(10);
         stack.push(20);
