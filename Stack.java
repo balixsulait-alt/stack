@@ -1,5 +1,4 @@
 import java.util.EmptyStackException;
-//it  the stack 
 public class Stack<T> {
     private Node<T> top;
     private int size;
