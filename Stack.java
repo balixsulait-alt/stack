@@ -29,7 +29,7 @@ public class Stack<T> {
     }
 
     /**
-     * Removes the object at the top of this stack and returns that object as the value of this function.
+     * Removes the object at the top of this stack & returns that object as the value of this function.
      * @return The object at the top of this stack.
      * @throws EmptyStackException if this stack is empty.
      */
