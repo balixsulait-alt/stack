@@ -18,8 +18,8 @@ public class Stack<T> {
     }
 
     /**
-     * Pushes an item onto the top of this stack.
-     * @param item the item to be pushed onto this stack.
+     ** Pushes an item onto the top of this stack.
+     ** @param item the item to be pushed onto this stack.
      */
     public void push(T item) {
         Node<T> newNode = new Node<>(item);
