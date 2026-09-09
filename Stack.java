@@ -2,6 +2,7 @@
 
 import java.util.EmptyStackException;
 public class Stack<T> {
+
     private Node<T> top;
     private int size;
 
